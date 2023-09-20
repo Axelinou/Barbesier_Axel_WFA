@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hdbmSQqRyOMRs02bF+AAMuy+tgFTOXoi1WvjVK5MVEKAJRqAd7Xk//M7gq5ZKWP23Ye8J8OyAW0M+TZ4kToP9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Proprietaire\\Desktop\\Cours\\B2\\WFA\\Snake_Barbesier_wfa\\Snake_Barbesier_wfa\\Snake_Barbesier_wfa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Proprietaire\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Proprietaire\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Proprietaire\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Proprietaire\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
