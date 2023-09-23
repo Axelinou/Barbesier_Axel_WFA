@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BD3C00B6-0FA7-46EC-BB9B-F9D2BFC36554}</ProjectGuid>
+    <ProjectGuid>{863C3527-74FD-40DB-9800-D888E4EF930D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Snake_AB</RootNamespace>
     <AssemblyName>Snake_AB</AssemblyName>
@@ -54,6 +54,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
