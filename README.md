@@ -12,3 +12,7 @@ J’ai déjà créer les classes pour les directions et je vais les finalisers d
 
 ## 21/09/23 : 
 Aujourd'hui j'ai avancer sur le jeu j'ai ajouter le serpent et la nourriture et les fonctions qui vont avec, et j'ai aussi mit le GameState, j'ai aussi reflechis au bonus de personnalisations que je pourrai ajouter au jeu.
+
+## 22/09/23 : 
+J'ai eu un assez gros probleme, c'est a dire que mon fichier ne disposer plus de .sln ce qui veut dire que plus rien ne fonctionner, c'est peut etre un mal pour un bien parce que en demandant de l'aide on m'as dit que j'utiliser les mauvaise tech,
+Donc je recommence avec un nouveau tuto, qui lui utilise les bonnes techs, en esperant que je n'ai pas le meme probleme qu'avec l'autre.
