@@ -1,7 +1,7 @@
 # Barbesier_Axel_WFA
 Le but du projet est de realiser un jeu en C# en utilisant le FrameWork ".Net" et en utilisant WFA (Windows Format Application) une interfaces graphiques incluses dedans.
 J'ai choisit le jeu du snake, qui avais l'air plus a ma porter pour le realiser.
-
+Je code sur Microsoft Visual Studio.
 
 
 # Journal de Dev 
