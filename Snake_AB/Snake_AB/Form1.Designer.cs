@@ -30,19 +30,11 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmSnake));
-            this.picGameBoard = new System.Windows.Forms.PictureBox();
             this.timer = new System.Windows.Forms.Timer(this.components);
             this.imgList = new System.Windows.Forms.ImageList(this.components);
+            this.picGameBoard = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.picGameBoard)).BeginInit();
             this.SuspendLayout();
-            // 
-            // picGameBoard
-            // 
-            this.picGameBoard.Location = new System.Drawing.Point(12, 12);
-            this.picGameBoard.Name = "picGameBoard";
-            this.picGameBoard.Size = new System.Drawing.Size(420, 420);
-            this.picGameBoard.TabIndex = 0;
-            this.picGameBoard.TabStop = false;
             // 
             // timer
             // 
@@ -61,6 +53,14 @@
             this.imgList.Images.SetKeyName(4, "wall.png");
             this.imgList.Images.SetKeyName(5, "snake_body.png");
             this.imgList.Images.SetKeyName(6, "snake_head.png");
+            // 
+            // picGameBoard
+            // 
+            this.picGameBoard.Location = new System.Drawing.Point(12, 12);
+            this.picGameBoard.Name = "picGameBoard";
+            this.picGameBoard.Size = new System.Drawing.Size(420, 420);
+            this.picGameBoard.TabIndex = 0;
+            this.picGameBoard.TabStop = false;
             // 
             // frmSnake
             // 

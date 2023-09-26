@@ -186,6 +186,7 @@ namespace Snake_AB
                 if (snakeLength < 96)
                     Bonus();
 
+
                 this.Text = "Snake - score : " + snakeLength;
             }
 
