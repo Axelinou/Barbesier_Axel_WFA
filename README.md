@@ -3,7 +3,7 @@ Le but du projet est de realiser un jeu en C# en utilisant le FrameWork ".Net" e
 J'ai choisit le jeu du snake, qui avais l'air plus a ma porter pour le realiser.
 Je code sur Microsoft Visual Studio.
 
-#Try to beat my score, is 57 :)
+#Try to beat my score, is 87 :)
 
 # Journal de Dev
 
