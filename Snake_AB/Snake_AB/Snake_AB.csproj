@@ -113,5 +113,8 @@
   <ItemGroup>
     <None Include="Resources\KNIGHT - Giant snake, Bonhotal William %281%29.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C9psZ8J-asset-kids-mezzanine1-16x9-mbuTj7v %281%29.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
