@@ -103,6 +103,26 @@ namespace Snake_AB.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap C9psZ8J_asset_kids_mezzanine1_16x9_mbuTj7v__1_ {
+            get {
+                object obj = ResourceManager.GetObject("C9psZ8J-asset-kids-mezzanine1-16x9-mbuTj7v (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap KNIGHT___Giant_snake__Bonhotal_William__1_ {
+            get {
+                object obj = ResourceManager.GetObject("KNIGHT - Giant snake, Bonhotal William (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap snake_body {
             get {
                 object obj = ResourceManager.GetObject("snake_body", resourceCulture);

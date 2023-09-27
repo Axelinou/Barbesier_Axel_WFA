@@ -9,3 +9,4 @@ C:\Users\Proprietaire\Desktop\Cours\B2\WFA\Final_file\Barbesier_Axel_WFA\Snake_A
 C:\Users\Proprietaire\Desktop\Cours\B2\WFA\Final_file\Barbesier_Axel_WFA\Snake_AB\Snake_AB\obj\Debug\Snake_AB.csproj.CoreCompileInputs.cache
 C:\Users\Proprietaire\Desktop\Cours\B2\WFA\Final_file\Barbesier_Axel_WFA\Snake_AB\Snake_AB\obj\Debug\Snake_AB.exe
 C:\Users\Proprietaire\Desktop\Cours\B2\WFA\Final_file\Barbesier_Axel_WFA\Snake_AB\Snake_AB\obj\Debug\Snake_AB.pdb
+C:\Users\Proprietaire\Desktop\Cours\B2\WFA\Final_file\Barbesier_Axel_WFA\Snake_AB\Snake_AB\obj\Debug\Snake_AB.StartGame.resources
